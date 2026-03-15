@@ -27,7 +27,6 @@
 - 🏏 I love **cricket, music**, and exploring new tech
 - 🌱 Currently learning **Deep Learning & Cloud Technologies**
 - 💼 Preparing for **placements**
-- 🎓 CGPA: **8.12 / 10**
 
 </td>
 <td>
