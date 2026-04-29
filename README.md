@@ -21,7 +21,7 @@
 <table>
 <tr>
 <td>
-    https://omkar-portfoli0.netlify.app/
+  
 - 🧑‍🎓 Final-year **Computer Science Engineering** Student @ RNSIT, Bangalore
 - 🤖 Passionate about **Machine Learning & Computer Vision**
 - 🏏 I love **cricket, music**, and exploring new tech
